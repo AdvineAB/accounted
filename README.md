@@ -1,4 +1,4 @@
-# Accounted
+# Accounted 
 
 Open-source Swedish accounting software for sole traders (enskild firma) and limited companies (aktiebolag).
 
